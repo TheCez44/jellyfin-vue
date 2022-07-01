@@ -71,11 +71,11 @@ typings/
 frontend/.nuxt
 
 # Nuxt generate
-dist
-frontend/dist
+# dist
+# frontend/dist
 
 # vuepress build output
-.vuepress/dist
+# .vuepress/dist
 
 # Serverless directories
 .serverless
